@@ -1,0 +1,4 @@
+Derived classes: Common derived classes include:
+ifstream: For reading from files.
+istringstream: For reading from strings.
+cin: The standard input stream, typically associated with the keyboard.
